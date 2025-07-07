@@ -25,9 +25,6 @@
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br/>React.js
     </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/><br/>Tailwind
-    </td>
   </tr>
 
   <!-- Row 2 -->
@@ -48,7 +45,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/><br/>GitHub
     </td>
     <td align="center" width="100" height="100">
-      <!-- Placeholder to balance layout -->
+      <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/><br/>Tailwind
+    </td>
       <div style="width:48px; height:48px;"></div><br/>
     </td>
   </tr>

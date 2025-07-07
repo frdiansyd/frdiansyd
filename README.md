@@ -1,5 +1,6 @@
 # Hi there 👋
-## 🛠️ Tools I Have Worked With
+
+## 🛠️ Tools that I Have Worked With
 
 <div align="center">
 
@@ -37,6 +38,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br/>MongoDB
     </td>
   </tr>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/><br/>Express.js
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/><br/>Figma
+    </td>
+    <td align="center" width="120" height="120">
+      <!-- Placeholder for visual balance -->
+      <div style="width:48px;height:48px;"></div><br/>
+    </td>
+  </tr>
 </table>
 
 </div>
+

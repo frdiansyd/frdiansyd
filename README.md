@@ -10,7 +10,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48"/><br/>Flutter
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://play-lh.googleusercontent.com/VkH3FwH8z2PbEcd-j3sOkv_K3D2axqpO6cWjL14_FAHp3kkR1CDWrJusMURKVGwaMw" width="48" height="48"/><br/>FlutterFlow
+      <img src="https://brandfetch.com/flutterflow.io?view=library&library=default&collection=logos&asset=idEy25iPqR&utm_source=https%253A%252F%252Fbrandfetch.com%252Fflutterflow.io&utm_medium=copyAction&utm_campaign=brandPageReferral" width="48" height="48"/><br/>FlutterFlow
     </td>
     <td align="center" width="120" height="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/><br/>HTML

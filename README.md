@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align="center" width="120" height="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48"/><br/>Tailwind
+      <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/><br/>Tailwind
     </td>
     <td align="center" width="120" height="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/><br/>Bootstrap

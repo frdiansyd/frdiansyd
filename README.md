@@ -1,9 +1,6 @@
 # Hi there 👋
 
 ## 🛠️ Tools that I Have Worked With
-
-<div align="center">
-
 <table style="border-collapse: collapse;">
   <!-- Row 1 -->
   <tr>

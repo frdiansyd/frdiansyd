@@ -42,7 +42,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/><br/>GitHub
     </td>
     <td align="center" width="100" height="100">
-      <div height="48>
+      <div height="48">
         <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="55" height="48"/><br/>Tailwind
       </div>
     </td>

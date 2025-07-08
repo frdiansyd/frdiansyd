@@ -1,7 +1,4 @@
-   __ __    ____       __  __ <br>             
-  / // /__ / / /__    / /_/ /  ___ _______ <br> 
- / _  / -_) / / _ \  / __/ _ \/ -_) __/ -_)<br> 
-/_//_/\__/_/_/\___/  \__/_//_/\__/_/  \__/ <br> 
+<img width="100%" height="200px" src="https://cdn-az.allevents.in/events1/banners/3f687f30-a495-11ef-a9ed-d71d5d988295-rimg-w1200-h514-dc010101-gmir.jpg?v=1731814641">
 ## 🛠️ Tools that I Have Worked With
 <table style="border-collapse: collapse;">
   <tr>

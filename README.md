@@ -1,4 +1,4 @@
-#🛠️ Tools that I Have Worked With
+## All tools that i have worked with
 <table style="border-collapse: collapse;">
   <tr>
     <td align="center" width="100" height="100">

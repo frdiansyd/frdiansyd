@@ -1,5 +1,5 @@
 ## All tools that i have worked with
-<table style="border-collapse: collapse;">
+<table>
   <tr>
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48"/><br/>Flutter

@@ -33,7 +33,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br/>MongoDB
     </td>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/><br/>Express.js
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br/>Express.js
     </td>
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/><br/>Figma
@@ -42,7 +42,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/><br/>GitHub
     </td>
     <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br/>Tailwind
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br/>Tailwind
     </td>
       <div style="width:48px; height:48px;"></div><br/>
     </td>
